@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_8f66c9043741b67b82f5ea51b9b058859d6a32c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_86d4e5bc6d9f3c91925d399bc0a9aa7c22f737ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_7d2c9c1b88d5f7589edcc559c699610970f74490/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0812fe38d0f430faf237edc0453ce41f706b2973">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_daa7054973310442915abe5fdee096b575a29b54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_bf85bccd149b481c290c7cac6d55b35cdd9f8fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b50d19a096b50db415b77a16e1ce7222a9446f1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_20072b0e7da042565a476ddf754ecb321ab6732d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_811ce9524d8a693f38c74962b4862184f0992838/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_988a3867f8442604dd55495f9933e5f534aa7f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2987c6c45ea33138daca47cbdc68cf74b2ee426">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_adee78b78164766803506f7df4b44ab8a9b1ffdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_7de99245881b2be032e6df8278af23e8a8e608ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_4efdb99b5c451e876d7715d444d252da35f2fecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_62efeb97a7304e1b02ce90c082ef50f327cc7811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_b6d7a2b6cbdeeab044557b404a68019b4cb89e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/student/Documents/Sinead_McCarthy_Lab05/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_96dea297ff6744a169dd1bb9d21ac17c908f0cc3/classes.dex" />
+    </item>
+
+</items>

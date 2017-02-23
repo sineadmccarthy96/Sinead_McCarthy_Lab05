@@ -1,0 +1,27 @@
+#N canvas 507 184 948 696 10;
+#X floatatom -54 50 5 0 0 0 - - -, f 5;
+#X floatatom 28 86 5 0 0 0 - - -, f 5;
+#X floatatom 119 126 5 0 0 0 - - -, f 5;
+#X obj -53 19 r accelX;
+#X obj 28 58 r accelY;
+#X obj 119 99 r accelZ;
+#X obj 214 135 r latitude;
+#X obj 305 176 r longitude;
+#X floatatom 214 170 5 0 0 0 - - -, f 5;
+#X floatatom 305 210 5 0 0 0 - - -, f 5;
+#X text 390 171 when the the location updates in the app \, the longitude
+emerges from this object's outlet.;
+#X text 295 129 when the the location updates in the app \, the latitude
+emerges from this object's outlet.;
+#X text 204 94 when the phone is moved \, the accelerometer's value
+from the Z axis emerges from this object's outlet;
+#X text 109 52 when the phone is moved \, the accelerometer's value
+from the Y axis emerges from this object's outlet;
+#X text 12 13 when the phone is moved \, the accelerometer's value
+from the X axis emerges from this object's outlet;
+#X obj 413 230 r onOff;
+#X connect 3 0 0 0;
+#X connect 4 0 1 0;
+#X connect 5 0 2 0;
+#X connect 6 0 8 0;
+#X connect 7 0 9 0;
